@@ -455,6 +455,9 @@ firebase/firestore
 
 firebase/storage
 
+mat-file-upload
+SEE LICENSE IN LICENSE.txt
+
 ngx-auth-firebaseui
 MIT
 
